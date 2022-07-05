@@ -3,7 +3,7 @@
 https://ken862734801.github.io/Sign-up-Form/
 
 ## Preview 
-![Alt text](https://i.imgur.com/JbtmLjL.png)
+![Alt text](https://i.imgur.com/SyAxSRg.png)
 
 <img src="https://i.imgur.com/qinQCM4.png" width="414" height="896">
 View on mobile.
