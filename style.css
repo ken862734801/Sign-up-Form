@@ -161,3 +161,18 @@ button:hover{
         padding-bottom:10px;
     }
 }
+
+@media screen and (max-width:420px){
+    body{
+        padding: 0px 5px 0px 0px;
+    }
+    .main-container{
+        width:95vw;
+    }
+    .left-container{
+        width:47.5vw;
+    }
+    .right-container{
+        width:47.5vw;
+    }
+}
