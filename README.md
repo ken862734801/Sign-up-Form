@@ -5,7 +5,7 @@ https://ken862734801.github.io/Sign-up-Form/
 ## Preview 
 ![Alt text](https://i.imgur.com/JbtmLjL.png)
 
-<img src="https://i.imgur.com/JqexqU0.png" width="400" height="800">
+<img src="https://i.imgur.com/qinQCM4.png" width="400" height="800">
 View on mobile.
 
 ## Summary
